@@ -1,0 +1,65 @@
+<div id="Top_bar" class="">
+
+	<div class="container">
+		<div class="column one">
+
+			<div class="top_bar_left clearfix">
+
+				<div class="logo"><a id="logo" href="https://luattaga.vn" title="Luật TAGA" data-height="60" data-padding="30" class="retina"><img class="logo-main scale-with-grid " src="https://luattaga.vn/wp-content/uploads/2023/04/TAGA-5-1.png" data-retina="https://luattaga.vn/wp-content/uploads/2023/04/TAGA-5-1.png" data-height="218" alt="TAGA (5) (1)" data-no-retina="" style="max-height: 59.9875px;"><img class="logo-sticky scale-with-grid " src="https://luattaga.vn/wp-content/uploads/2023/04/TAGA-5-1.png" data-retina="https://luattaga.vn/wp-content/uploads/2023/04/TAGA-5-1.png" data-height="218" alt="TAGA (5) (1)" data-no-retina="" style="max-height: 35px;"><img class="logo-mobile scale-with-grid " src="https://luattaga.vn/wp-content/uploads/2023/04/TAGA-5-1.png" data-retina="https://luattaga.vn/wp-content/uploads/2023/04/TAGA-5-1.png" data-height="218" alt="TAGA (5) (1)" data-no-retina="" style="max-height: 50px;"><img class="logo-mobile-sticky scale-with-grid " src="https://luattaga.vn/wp-content/uploads/2023/04/TAGA-5-1.png" data-retina="https://luattaga.vn/wp-content/uploads/2023/04/TAGA-5-1.png" data-height="218" alt="TAGA (5) (1)" data-no-retina="" style="max-height: 50px;"></a></div>
+				<div class="menu_wrapper">
+					<a class="responsive-menu-toggle " href="#" aria-label="mobile menu"><i class="icon-menu-fine" aria-hidden="true"></i></a><nav id="menu" role="navigation" aria-expanded="false" aria-label="Main menu"><ul id="menu-main-menu" class="menu menu-main"><li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-60 current_page_item"><a href="https://luattaga.vn/"><span>Trang chủ</span></a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://luattaga.vn/ve-chung-toi/"><span>Về chúng tôi</span></a></li>
+<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children submenu"><a href="https://luattaga.vn/dich-vu-so-huu-tri-tue/"><span>Dịch vụ sở hữu trí tuệ</span></a>
+<ul class="sub-menu" style="display: none;">
+	<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://luattaga.vn/dang-ky-bao-ho-nhan-hieu/"><span>Dịch vụ đăng ký bảo hộ nhãn hiệu</span></a></li>
+	<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://luattaga.vn/dang-ky-bao-ho-ban-quyen/"><span>Dịch vụ đăng ký bảo hộ bản quyền</span></a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://luattaga.vn/bao-ho-kieu-dang-cong-nghiep/"><span>Dịch vụ Đăng ký bảo hộ kiểu dáng công nghiệp</span></a></li>
+	<li id="menu-item-304" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://luattaga.vn/bao-ho-sang-che-giai-phap-huu-ich/"><span>Đăng ký bảo hộ Sáng chế, giải pháp hữu ích</span></a></li>
+	<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-post last-item"><a href="https://luattaga.vn/xu-ly-xam-pham/"><span>Dịch vụ xử lý xâm phạm sở hữu trí tuệ</span></a></li>
+</ul>
+<a class="menu-toggle" href="#" role="link" aria-label="Toggle submenu"></a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children submenu"><a href="https://luattaga.vn/dich-vu-khac/"><span>Dịch vụ khác</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1178" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://luattaga.vn/xin-cap-giay-chung-nhan-dau-tu-tai-viet-nam/"><span>Xin cấp Giấy chứng nhận đầu tư tại Việt Nam</span></a></li>
+	<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://luattaga.vn/dang-ky-ma-so-ma-vach/"><span>Dịch vụ đăng ký mã số mã vạch</span></a></li>
+	<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://luattaga.vn/giay-phep-doanh-nghiep-khoa-hoc-cong-nghe/"><span>Giấy phép Doanh nghiệp Khoa học Công nghệ</span></a></li>
+	<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-post"><a href="https://luattaga.vn/dang-ky-giay-phep-mang-xa-hoi/"><span>Đăng ký giấy phép mạng xã hội</span></a></li>
+	<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-post last-item"><a href="https://luattaga.vn/tu-van-soan-thao-hop-dong/"><span>Dịch vụ Tư vấn soạn thảo Hợp đồng</span></a></li>
+</ul>
+<a class="menu-toggle" href="#" role="link" aria-label="Toggle submenu"></a></li>
+<li id="menu-item-1219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children submenu"><a href="#"><span>Bản tin</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-309" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://luattaga.vn/chuyen-muc/ban-tin-phap-luat/"><span>Bản tin pháp luật</span></a></li>
+	<li id="menu-item-310" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://luattaga.vn/chuyen-muc/thong-tin-huu-ich/"><span>Thông tin hữu ích</span></a></li>
+	<li id="menu-item-689" class="menu-item menu-item-type-custom menu-item-object-custom last-item"><a href="https://luattaga.vn/tuyen-dung"><span>Tuyển dụng</span></a></li>
+</ul>
+<a class="menu-toggle" href="#" role="link" aria-label="Toggle submenu"></a></li>
+<li id="menu-item-501" class="menu-item menu-item-type-taxonomy menu-item-object-category last"><a href="https://luattaga.vn/chuyen-muc/hoi-dap/"><span>Hỏi đáp</span></a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page last"><a href="https://luattaga.vn/lien-he/"><span>Liên hệ</span></a></li>
+</ul></nav>				</div>
+
+				<div class="secondary_menu_wrapper">
+									</div>
+
+				
+			</div>
+
+			<div class="top_bar_right "><div class="top_bar_right_wrapper"><a id="search_button" class="top-bar-right-icon top-bar-right-icon-search search_button" href="#"><svg width="26" viewBox="0 0 26 26" aria-label="search icon"><defs><style>.path{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:1.5px;}</style></defs><circle class="path" cx="11.35" cy="11.35" r="6"></circle><line class="path" x1="15.59" y1="15.59" x2="20.65" y2="20.65"></line></svg></a></div></div>
+			<div class="search_wrapper">
+				
+<form method="get" class="form-searchform" action="https://luattaga.vn/">
+
+	
+  <svg class="icon_search" width="26" viewBox="0 0 26 26" aria-label="search icon"><defs><style>.path{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:1.5px;}</style></defs><circle class="path" cx="11.35" cy="11.35" r="6"></circle><line class="path" x1="15.59" y1="15.59" x2="20.65" y2="20.65"></line></svg>
+  <span class="mfn-close-icon icon_close" tabindex="0"><span class="icon">✕</span></span>
+
+	
+	<input type="text" class="field" name="s" placeholder="Nhập từ khóa tìm kiếm" aria-label="Nhập từ khóa tìm kiếm">
+	<input type="submit" class="display-none" value="" aria-label="Search">
+
+</form>
+			</div>
+
+		</div>
+	</div>
+</div>
