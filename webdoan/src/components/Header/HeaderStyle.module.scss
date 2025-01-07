@@ -1,0 +1,140 @@
+
+.HeaderTop {
+  position: fixed;
+  right: 0;
+  left: 0;
+  height: 50px;
+  color: white;
+  background-color: #338BEB;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text_name_he_thong {
+  color: white;
+  margin-left: 2%;
+  font-weight: 600;
+}
+
+.search_header {
+  background-color: white;
+  padding: 0 5px;
+  align-items: center;
+  border-radius: 10px;
+  width: 500px;
+}
+
+.input {
+  border: none;
+  width: 90%;
+  outline: none;
+  color: #343434;
+  line-height: 18px;
+  padding: 5px 10px;
+}
+
+.notification {
+  background-color: rgba(231, 231, 231, 0.3);
+  padding: 5px;
+  border-radius: 10px;
+  margin: 0 15px;
+}
+
+.user {
+  align-items: center;
+}
+
+.text_name_user {
+  color: white;
+  font-weight: 600;
+}
+
+.module_header {
+  position: absolute;
+  top: 50px;
+  border-radius: 10px;
+  background-color: #fafafa;
+  border: 1px solid #cccccc;
+  right: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 200;
+  max-width: 450px;
+}
+
+.row_module_header {
+  color: #343434;
+  cursor: pointer;
+  padding: 15px 40px;
+  width: 100%;
+}
+
+.row_module_header_border_top {
+  border-top: 1px solid #cecdcd;
+}
+
+.row_module_header:hover {
+  background-color: #efefef;
+}
+
+.HeaderAdmin {
+  position: fixed;
+  background-color: #338BEB;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 80px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 40px;
+}
+
+.list_management {
+  background-color: #338BEB;
+  align-items: center;
+  width: 80%;
+}
+
+.row_list_management {
+  cursor: pointer;
+  color: white;
+  padding: 5px 20px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.icon_header_admin {
+  color: white;
+  font-size: 30px;
+}
+
+.btn_logout {
+  cursor: pointer;
+  color: white;
+  padding: 10px 20px;
+  font-weight: 600;
+}
+
+.module_header_notification {
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.item_notification{
+  margin: 10px;
+  padding: 10px;
+  width: 95%;
+  border: 1px solid rgba(0, 122, 254, 0.5);;
+}
+
+.type_notify {
+  color: #338BEB;
+}
+
+.icon_user_notify {
+  font-size: 35px;
+  color: #338BEB;
+}

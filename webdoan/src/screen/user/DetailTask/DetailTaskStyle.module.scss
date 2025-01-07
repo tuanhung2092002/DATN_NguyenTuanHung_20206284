@@ -1,0 +1,89 @@
+.DetailTaskScreen {
+  padding: 0 1%;
+}
+
+.text_title_type {
+  display: flex;
+  align-items: center;
+  color: #085cd4;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.text_header_title {
+  padding: 5px 0 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.task_content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.body_detail_task {
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.table-fixed thead {
+  background-color: #f8f9fa;
+}
+
+.table-fixed th, .table-fixed td {
+  padding: 10px;
+}
+
+.row_file {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 2%;
+  background-color: rgba(120, 117, 117, 0.1);
+  border-radius: 10px;
+}
+
+.input_comment {
+  resize: none;
+  border: none;
+}
+
+.add_comment {
+  border: 1px solid #cccccc;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.row_add_comment {
+  color: #085cd4;
+  background-color: rgba(66, 146, 234, 0.2);
+  padding: 10px;
+  border-radius: 10px;
+  width: 18%;
+  font-size: 18px;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.btn_response {
+  color: #085cd4;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.icon_download {
+  font-size: 30px;
+  color: #085cd4;
+}
+
+.icon_document {
+  font-size: 25px;
+  color: #085cd4;
+  margin-right: 10px;
+}
+
+.icon_user {
+  font-size: 40px;
+  color: #2390ff;
+  margin-right: 15px;
+}

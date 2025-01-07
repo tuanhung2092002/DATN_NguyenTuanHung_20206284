@@ -1,0 +1,43 @@
+.parent {
+  height: 45px;
+  align-items: center;
+  display: flex;
+}
+
+.list_child {
+  margin-left: 30px;
+  position: relative;
+}
+
+.list_child_border_left {
+  position: absolute;
+  top: -15px;
+  bottom: 24px;
+  left: -22px;
+  border-left: 2px dashed #d3d1d1;
+}
+
+.item_child {
+  position: relative;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.brank_child {
+  position: absolute;
+  left: -22px;
+  top: 0;
+  bottom: 0;
+  border-left: 2px dashed #d3d1d1;
+  border-bottom: 2px dashed #d3d1d1;
+  border-bottom-left-radius: 5px;
+  width: 40px;
+}
+
+.text_child {
+  margin-left: 10px;
+}
+
+.icon_arrow {
+  color: #939292;
+}

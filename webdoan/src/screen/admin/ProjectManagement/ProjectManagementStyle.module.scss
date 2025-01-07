@@ -1,0 +1,62 @@
+.ProjectManagementScreen {
+  padding: 90px 60px 90px;
+}
+
+.icon_header {
+  font-size: 30px;
+  color: #085cd4;
+}
+
+.table_list_project {
+  width: 100%;
+}
+
+.table_row {
+  height: 50px;
+  border-bottom: 1px solid #cccccc;
+}
+
+.btn_page_number {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.btn_page {
+  border: 1px solid #dcdcdc;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #338BEB;
+  color: white;
+}
+
+.module_create_project {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(83, 83, 83, 0.8);
+}
+
+.module_create_project_body {
+  background-color: #ffffff;
+  margin: 5% auto;
+  width: 50%;
+}
+
+.module_create_project_body_h {
+  color: white;
+  background-color: #085cd4;
+  padding: 10px 20px 10px 20px;
+  position: relative;
+  font-weight: 600;
+}
+
+.module_close {
+  position: absolute;
+  right: 10px;
+  color: #ffffff;
+  font-size: 35px;
+}

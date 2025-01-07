@@ -1,0 +1,77 @@
+.row_action {
+  display: flex;
+  align-items: center;
+  padding-top: 5px;
+  border-bottom: 1px solid #787575;
+}
+
+.action_item {
+  border-right: 1px solid #787575;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-bottom: 5px;
+  color: #085cd4;
+  cursor: pointer;
+}
+
+.icon_action {
+  font-size: 22px;
+}
+
+.HandleAction {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: rgba(120, 117, 117, 0.5);
+  width: 100%;
+  z-index: 14;
+}
+
+.HandleAction_body {
+  background-color: white;
+  width: 60%;
+  max-height: 60vh;
+  overflow-y: auto;
+  margin: 2% auto;
+  border-radius: 10px;
+}
+
+.HandleAction_body_header {
+  background-color: #085cd4;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  display: flex;
+  padding: 10px 20px;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.HandleAction_body_close {
+  position: absolute;
+  right: 10px;
+  color: #ffffff;
+  font-size: 35px;
+}
+
+.file-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 1px 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+
+  span {
+    flex: 1;
+  }
+
+  button {
+    margin-left: 10px;
+    padding: 10px 20px;
+  }
+}

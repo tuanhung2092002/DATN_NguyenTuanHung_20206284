@@ -1,0 +1,36 @@
+.PersonnelManagementScreen {
+  padding: 90px 60px 90px;
+}
+
+.icon_header {
+  font-size: 30px;
+  color: #085cd4;
+}
+
+.btn_header {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  margin-right: 0.5rem;
+  font-weight: bold;
+}
+
+.btn_page_number {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.btn_page {
+  border: 1px solid #dcdcdc;
+  cursor: pointer;
+}
+
+.table_row {
+  height: 50px;
+  border-bottom: 1px solid #cecdcd;
+}
+
+.active {
+  background-color: #338BEB;
+  color: white;
+}

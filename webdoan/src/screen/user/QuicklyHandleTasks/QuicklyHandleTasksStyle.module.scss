@@ -1,0 +1,62 @@
+.QuicklyHandleTasksScreen {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: 11;
+  background-color: rgba(120, 117, 117, 0.5);
+}
+
+.QuicklyHandleTasksScreen_body_close {
+  color: white;
+  font-size: 35px;
+  padding: 0;
+  margin: 0;
+}
+
+.show_list {
+  color: white;
+  font-size: 40px;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  right: 2%;
+  top: -20%;
+}
+
+.body_module_xu_ly_nhanh {
+  margin: 4% auto;
+  width: 60%;
+  height: 70vh;
+  overflow-y: auto;
+  background-color: #fff;
+  position: relative;
+}
+
+.text_header_module_xu_ly_nhanh {
+  color: white;
+  background-color: #338BEB;
+  height: 40px;
+  display: flex;
+  padding: 1%;
+  font-size: 18px;
+  font-weight: 600;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header_fixed {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.btn_close_module {
+  color: white;
+}
+
+.btn_footer {
+  padding: 5px 50px;
+  margin-right: 20px;
+}
